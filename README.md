@@ -1,0 +1,2 @@
+# -Smart-U-Turn-Sensor-Based-Accident-Prevention-and-Automated-Emergency-Response-System-
+"Smart U-Turn" enhances road safety in hilly regions by using motion sensors to detect vehicles at sharp bends, preventing collisions. A central camera detects accidents, instantly notifying emergency services like police and ambulances. This system ensures quick responses, reducing accidents and saving lives in challenging terrains.
